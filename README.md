@@ -1,1 +1,2 @@
-# readmemory.github.io
+# [NuRi's Blog](https://www.nuridol.net)
+
